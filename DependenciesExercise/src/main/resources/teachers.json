@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Chris",
+    "rating": 4.5,
+    "comments": ["Ótimo professor", "Explica bem"]
+  },
+  {
+    "id": 2,
+    "name": "Marcelo",
+    "rating": 3.8,
+    "comments": ["Pode melhorar a didática", "É paciente"]
+  }
+]
